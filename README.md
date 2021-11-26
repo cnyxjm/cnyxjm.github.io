@@ -1,2 +1,2 @@
 # cnyxjm.github.io
-This is JianMing's Github Pages
+这里是蒋明的技术微博，欢迎访问！http://cnyxjm.github.io
